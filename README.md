@@ -35,12 +35,12 @@ Pastikan `Docker Desktop` atau paket `docker` dan `docker-compose` terinstal pad
 ## Panduan Instalasi / Langkah demi Langkah
 ### 1. Clone Proyek
 ```shell
-git clone https://github.com/FadhilFirmansyah/container-inventory.git
+git clone https://github.com/garykristevian/uts-inventory.git
 ```
 Clone repositori manajemen inventaris ke direktori aktif saat ini.
 ### 2. Masuk ke Direktori Proyek
 ```shell
-cd container-inventory
+cd uts-inventory
 ```
 Masuk ke direktori tempat proyek yang telah di-clone.
 ### 3. Instal Proyek
