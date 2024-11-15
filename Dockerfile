@@ -27,5 +27,5 @@ COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 
 WORKDIR /var/www/html
 
-#Install npm secara global (Sunnah)
+#Install npm secara global
 RUN npm install -g npm
