@@ -9,7 +9,7 @@
                 <h1 class="mb-5 text-5xl font-bold">Hello there</h1>
                 <p class="mb-5">
                     Kita Adalah AMBA <br>
-                    AMBA adalah sebuah aplikasi untuk mengelola sistem inventaris yang dikembangkan pereusahaan JMK
+                    AMBA adalah sebuah aplikasi diperuntukan untuk mengelola sistem inventaris yang dikembangkan pereusahaan JMK
                 </p>
                 <a href="{{ url('/admin') }}">
                     <button class="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-primary">Get Started</button>
